@@ -1,0 +1,18 @@
+.list-group{
+    padding-top: 50px;
+}
+
+.user-details-list-key{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: left;
+    padding: 20px;
+    font-weight: bolder;
+}
+.user-details-list-value{
+    text-decoration: none;
+    list-style-type: none;
+    text-align: left;
+    padding: 20px;
+    font-weight: 500;
+}
